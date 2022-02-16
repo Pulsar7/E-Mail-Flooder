@@ -20,8 +20,8 @@ msg.add_alternative("""\
             <h1 style="text-align: center;font-size:66px;font-family:Arial;color:rgba(204, 207, 218, 0.431);">Sie haben <strong style="color:rgba(255, 255, 255, 0.801);text-decoration:underline;">nichts</strong> gewonnen! :D</h1>
         
         <div style="margin:auto;width:75%;border:0px solid rgba(0, 140, 255, 0.808);padding:10px;border-bottom-left-radius: 30px;">
-            <a href="https://woodnet.000webhostapp.com" style="color:whitesmoke;border:3px solid whitesmoke;padding:10px;font-size:33px;font-family:Arial;text-decoration: none;">Rufen Sie uns an</a>
-            <a href="https://woodnet.000webhostapp.com" style="color:whitesmoke;border:3px solid whitesmoke;padding:10px;font-size:33px;font-family:Arial;text-decoration: none;">Schreiben Sie eine Mail</a>
+            <a href="" style="color:whitesmoke;border:3px solid whitesmoke;padding:10px;font-size:33px;font-family:Arial;text-decoration: none;">Rufen Sie uns an</a>
+            <a href="" style="color:whitesmoke;border:3px solid whitesmoke;padding:10px;font-size:33px;font-family:Arial;text-decoration: none;">Schreiben Sie eine Mail</a>
         </div>
         </body>
 </html>
